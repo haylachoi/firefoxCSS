@@ -16,17 +16,17 @@
 }
 
 /* Window control buttons (min, resize and close) */
-.titlebar-buttonbox-container {
+/* .titlebar-buttonbox-container {
   display: none !important;
   margin-right: 12px !important;
-}
+} */
 
 /* Page back and foward buttons */
-#back-button,
+/* #back-button,
 #forward-button
 {
   display: none !important
-}
+} */
 
 /* Extensions button */
 #unified-extensions-button {
